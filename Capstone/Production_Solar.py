@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-%matplotlib inline
+#%matplotlib inline
 import csv
 import math 
 from sklearn.model_selection import GridSearchCV, RandomizedSearchCV
