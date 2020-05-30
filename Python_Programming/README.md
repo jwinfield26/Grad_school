@@ -1,10 +1,11 @@
 ## Problem 1: Endings
 Find on the D2L two datafiles, “namesBoys” and “namesGirls”, containing the 1000 most popular baby names in the United States in 2010. Define a function that reads the two datafiles into memory storing them in two lists. For each letter, a through z, count the number of times a names ends in a particular letter. Finally, print the counts to the console in well formatted and sorted columns, so that the data line up nicely. For example…
 
-Ending Boys Girls
-a 12 19
-b 7 3
-c 15 26
+Ending | Boys | Girls
+a | 12 | 19
+b | 7  | 3
+c | 15 |  26
+
 ...
 
 Note that those numbers are made up, and only provided to offer an example of formatting. Finally, include as a comment at the end of your code a paragraph discussing any interesting differences you found in the comparison of the endings of boys and girls names.
