@@ -2,6 +2,7 @@
 Find on the D2L two datafiles, “namesBoys” and “namesGirls”, containing the 1000 most popular baby names in the United States in 2010. Define a function that reads the two datafiles into memory storing them in two lists. For each letter, a through z, count the number of times a names ends in a particular letter. Finally, print the counts to the console in well formatted and sorted columns, so that the data line up nicely. For example…
 
 Ending | Boys | Girls
+------ | ---- | ----- 
 a | 12 | 19
 b | 7  | 3
 c | 15 |  26
