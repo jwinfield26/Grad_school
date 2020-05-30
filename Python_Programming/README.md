@@ -29,7 +29,7 @@ Loops until the user wishes to exit.
 
 Find on the D2L a datafile named “avocados.csv” -- Retrieved from Kaggle (9/26/2018). This data was downloaded from the Hass Avocado Board website in May of 2018 & compiled into a single CSV.
 
-    Define a function that takes a variable name in the form of a string (e.g. “Total Volume”), reads into memory the values for that variable (but just that variable) and computes the mean using the statistics module.
+Define a function that takes a variable name in the form of a string (e.g. “Total Volume”), reads into memory the values for that variable (but just that variable) and computes the mean using the statistics module.
 ```
 mean_SM = readAndComputeMean_SM(“Total Volume”)
 ```
